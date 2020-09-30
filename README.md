@@ -49,3 +49,5 @@ PyBer Fare Summary Graph
 
 * There are more drivers than rides in the Urban area, so allocate more drivers in the rural and suburban area
 
+* Bringing mileage into the source data, so we can do more analysis by average mileage per ride, average mileage per driver
+
