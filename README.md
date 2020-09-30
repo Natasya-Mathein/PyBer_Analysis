@@ -46,3 +46,6 @@ PyBer Fare Summary Graph
 
 
 #### Recommendation
+
+* There are more drivers than rides in the Urban area, so allocate more drivers in the rural and suburban area
+
