@@ -2,7 +2,7 @@
 
 #### Overview
 
-Omar and I were tasked to present summary data of the ride-share company CEO V Isualiaze and give recommendations based on the data we've collected so the senior level management can make decision.
+Omar and I were tasked to present summary data of the ride-share company CEO V Isualiaze and give business recommendations based on the data we've collected so help the senior level management making business decision.
 
 Here is some of the tasks:
 * Total number of rides for each city type
