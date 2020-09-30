@@ -13,3 +13,9 @@ Here is some of the tasks:
 
 
 #### Results
+
+
+
+<img width="1017" alt="PyBer_Graph" src="https://user-images.githubusercontent.com/70301884/94687263-ab585980-02f1-11eb-8f7e-63f38f708167.png">
+
+<img width="597" alt="PyRide_Summary" src="https://user-images.githubusercontent.com/70301884/94687272-af847700-02f1-11eb-95d5-c0cf7e6e0ed8.png">
