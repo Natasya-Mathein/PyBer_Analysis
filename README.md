@@ -16,27 +16,27 @@ Here is some of the tasks:
 
 Summary Data
 
-* Total Rides are 2,375
-  Rural Rides are 125 rides which is 5.3% of total riders
-  Suburban Rides are 625 rides which is 26.3% of total riders
-  Urban Rides take the majority which is 68.4% of the total rides
+* Total Rides are 2,375\
+  Rural Rides are 125 rides which is 5.3% of total riders\
+  Suburban Rides are 625 rides which is 26.3% of total riders\
+  Urban Rides take the majority which is 68.4% of the total rides\
 
-* Total Drivers are 2,973
-  Rural Drivers are 78 drivers which is 2.6% of total drivers
-  Suburban Drivers are 490 drivers which is 16.5% of total drivers
-  Urban Drivers also take majority which is 80.9% of total drivers
+* Total Drivers are 2,973\
+  Rural Drivers are 78 drivers which is 2.6% of total drivers\
+  Suburban Drivers are 490 drivers which is 16.5% of total drivers\
+  Urban Drivers also take majority which is 80.9% of total drivers\
   
-* Total Fares is $63,538.64
-  Rural fares is $ 4,327.93 which is 6.8% of total fares
-  Suburban fares is $19,356.33 which is 30.5% of total fares
-  Urban fares also take majority which is 62.7% of the total fares
+* Total Fares is $63,538.64\
+  Rural fares is $ 4,327.93 which is 6.8% of total fares\
+  Suburban fares is $19,356.33 which is 30.5% of total fares\
+  Urban fares also take majority which is 62.7% of the total fares\
   
 * Average Fare per Ride is similar which is Rural $34.62, Suburban $30.97 and Urban $24.53
 
-* Average Fare per Driver is very different based on the city type
-  Rural is the highest which is $55.49
-  Suburban is in the middle which is $39.50
-  Urban Driver is the lowest which is $16.57
+* Average Fare per Driver is very different based on the city type\
+  Rural is the highest which is $55.49\
+  Suburban is in the middle which is $39.50\
+  Urban Driver is the lowest which is $16.57\
 
 <img width="597" alt="PyRide_Summary" src="https://user-images.githubusercontent.com/70301884/94687272-af847700-02f1-11eb-95d5-c0cf7e6e0ed8.png">
 
