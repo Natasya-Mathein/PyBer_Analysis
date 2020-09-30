@@ -51,3 +51,7 @@ PyBer Fare Summary Graph
 
 * Bringing mileage into the source data, so we can do more analysis by average mileage per ride, average mileage per driver
 
+* We should do further analysis by city to see if certain city has more drivers than others or certain city has shortage of drivers
+
+
+
