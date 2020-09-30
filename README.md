@@ -33,7 +33,7 @@ Summary Data
   
 * Average Fare per Ride is similar which is Rural $34.62, Suburban $30.97 and Urban $24.53
 
-* Average Fare per Driver is very different based on the city type\
+* Average Fare per Driver is varies based on the city type\
   Rural is the highest which is $55.49\
   Suburban is in the middle which is $39.50\
   Urban Driver is the lowest which is $16.57
