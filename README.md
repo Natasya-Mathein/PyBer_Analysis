@@ -2,14 +2,14 @@
 
 #### Overview
 
-Omar and I were tasked to present summary data of the ride-share company CEO V Isualiaze and give business recommendations based on the data we've collected so help the senior level management making business decision.
+Omar and I were tasked to present summary data of the ride-share company CEO V Isualiaze and give business recommendations based on the data we've collected so help the senior level management making business decisions.
 
-Here is some of the tasks:
-* Total number of rides for each city type
-* Total number of drivers for each city type
-* The sum of the fares for each city type
-* The average fare per ride for each city type
-* The average fare per driver for each city type
+For each city type, we calculated:
+* Total number of rides
+* Total number of drivers
+* The sum of the fares
+* The average fare per ride
+* The average fare per driver
 
 
 #### Results
@@ -31,7 +31,7 @@ Summary Data
   Suburban fares is $19,356.33 which is 30.5% of total fares\
   Urban fares also take majority which is 62.7% of the total fares
   
-* Average Fare per Ride is similar which is Rural $34.62, Suburban $30.97 and Urban $24.53
+* Average Fare per Ride is slightly higher for Rural $34.62 than Suburban $30.97 and Urban $24.53
 
 * Average Fare per Driver is varies based on the city type\
   Rural is the highest which is $55.49\
@@ -45,13 +45,15 @@ PyBer Fare Summary Graph
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/70301884/94687842-684ab600-02f2-11eb-8939-ca19bd811f75.png)
 
 
-#### Recommendation
+#### Recommendations
 
-* There are more drivers than rides in the Urban area, so allocate more drivers in the rural and suburban area
+* There are more drivers than rides in the Urban area, so allocate more drivers in the rural and suburban areas
 
-* Bringing mileage into the source data, so we can do more analysis by average mileage per ride, average mileage per driver
+* Bringing mileage into the source data, so we can do more analyses like average mileage per ride, average mileage per driver
 
-* We should do further analysis by city to see if certain city has more drivers than others or certain city has shortage of drivers
+* We should do further analysis comparing each city to see if some have more drivers than others or some have a shortage of drivers
+
+* It also may be benificial to analyze riders by hour to see if there are peak hours so the drivers can be better assigned
 
 
 
