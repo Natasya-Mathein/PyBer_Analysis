@@ -53,7 +53,7 @@ PyBer Fare Summary Graph
 
 * We should do further analysis comparing each city to see if some have more drivers than others or some have a shortage of drivers
 
-* It also may be benificial to analyze riders by hour to see if there are peak hours so the drivers can be better assigned
+* It also may be benificial to analyze riders by hour to see if there are peak hours so the drivers can be better assigned or allocated
 
 
 
